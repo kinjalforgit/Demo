@@ -1,0 +1,112 @@
+[
+  {
+    "id": -1,
+    "name": "Nessuna natura",
+    "isActive": 1
+  },
+  {
+    "id": 1,
+    "name": "N1 - excluded pursuant to art. 15",
+    "isActive": 1
+  },
+  {
+    "id": 2,
+    "name": "N4 - exempt ",
+    "isActive": 1
+  },
+  {
+    "id": 3,
+    "name": "N5 - margin regime / VAT not shown on the invoice",
+    "isActive": 1
+  },
+  {
+    "id": 4,
+    "name": "N7 - VAT paid in another EU country (distance sales pursuant to art. 40 c. 3 and 4 and art. 41 c. 1 letter b, DL 331/93; provision of telecommunications, broadcasting and electronic services pursuant to art. . 7-sexies letter f, g, art. 74-sexies Presidential Decree 633/72)",
+    "isActive": 1
+  },
+  {
+    "id": 5,
+    "name": "N2.1 - not subject to VAT pursuant to articles. From 7 to 7-septies of Presidential Decree 633/72",
+    "isActive": 1
+  },
+  {
+    "id": 6,
+    "name": "N2.2 - not subject – other cases",
+    "isActive": 1
+  },
+  {
+    "id": 7,
+    "name": "N3.1 - non-taxable – exports",
+    "isActive": 1
+  },
+  {
+    "id": 8,
+    "name": "N3.2 - non-taxable – intra-community supplies",
+    "isActive": 1
+  },
+  {
+    "id": 9,
+    "name": "N3.3 - non-taxable - sales to San Marino",
+    "isActive": 1
+  },
+  {
+    "id": 10,
+    "name": "N3.4 - non-taxable – operations assimilated to export sales",
+    "isActive": 1
+  },
+  {
+    "id": 11,
+    "name": "N3.5 - not taxable – following declarations of intent",
+    "isActive": 1
+  },
+  {
+    "id": 12,
+    "name": "N3.6 - non-taxable - other operations that do not contribute to the creation of the ceiling",
+    "isActive": 1
+  },
+  {
+    "id": 13,
+    "name": "N6.1 - reverse charge - transfer of scrap and other recovered materials",
+    "isActive": 1
+  },
+  {
+    "id": 14,
+    "name": "N6.2 - reverse charge – transfer of pure gold and silver",
+    "isActive": 1
+  },
+  {
+    "id": 15,
+    "name": "N6.3 - reverse charge – subcontracting in the construction sector",
+    "isActive": 1
+  },
+  {
+    "id": 16,
+    "name": "N6.4 - reverse charge - sale of buildings",
+    "isActive": 1
+  },
+  {
+    "id": 17,
+    "name": "N6.5 - reverse charge – sale of mobile phones",
+    "isActive": 1
+  },
+  {
+    "id": 18,
+    "name": "N6.6 - reverse charge – sale of electronic products",
+    "isActive": 1
+  },
+  {
+    "id": 19,
+    "name": "N6.7 - reverse charge - performance of the construction sector and related sectors",
+    "isActive": 1
+  },
+  {
+    "id": 20,
+    "name": "N6.8 - reverse charge – energy sector operations",
+    "isActive": 1
+  },
+  {
+    "id": 21,
+    "name": "N6.9 - reverse charge – other cases",
+    "isActive": 1
+  }
+]

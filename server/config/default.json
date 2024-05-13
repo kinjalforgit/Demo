@@ -1,0 +1,16 @@
+{
+  "dbConfig": {
+    "staging_mongoURI": "mongodb://demouser:password@127.0.0.1:27017/demo",
+    "production_mongoURI": ""
+  },
+  "jwtSecret": "U)9wpB%Z>Qh7mjz",
+  "uploadDir": "uploads",
+  "userDir": "users",
+  "color": {
+    "defaultAppColor": "#CB5829"
+  },
+  "appEmail": "kinjal.bandariya@centricwave.com",
+  "appPassword": "Centricwave@2020!",
+  "localDBURL": "mongodb://demouser:password@127.0.0.1:27017/demo",
+  "liveDBURL": ""
+}
